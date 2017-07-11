@@ -1,0 +1,8 @@
+{
+  "name": "bank_v2",
+  "version": "1.0.0",
+  "description": "small bank account managment software",
+  "main": "index.js",
+  "author": "y0m0 <lixi.daniele@gmail.com>",
+  "license": "MIT"
+}
