@@ -5,4 +5,8 @@ describe('Feature Test', () => {
   it('user can create a new account', () => {
     var account = new Account();
   });
+
+  describe('with an existing account', () => {
+
+  });
 });
