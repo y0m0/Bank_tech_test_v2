@@ -1,3 +1,7 @@
+[![Build Status](https://travis-ci.org/y0m0/Bank_tech_test_v2.svg?branch=master)](https://travis-ci.org/y0m0/Bank_tech_test_v2)
+[![Code Climate](https://codeclimate.com/github/y0m0/Bank_tech_test_v2/badges/gpa.svg)](https://codeclimate.com/github/y0m0/Bank_tech_test_v2)
+[![Test Coverage](https://codeclimate.com/github/y0m0/Bank_tech_test_v2/badges/coverage.svg)](https://codeclimate.com/github/y0m0/Bank_tech_test_v2)
+
 # Bank tech test
 
 Small piece of software written in JavaScript to manage a bank deposit account
