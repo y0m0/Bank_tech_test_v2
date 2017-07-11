@@ -4,5 +4,14 @@
   "description": "small bank account managment software",
   "main": "index.js",
   "author": "y0m0 <lixi.daniele@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "istanbul cover --include-all-sources ./node_modules/.bin/jasmine"
+  },
+  "devDependencies": {
+    "codeclimate-test-reporter": "^0.5.0",
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.6.0",
+    "jasmine-spec-reporter": "^4.1.1"
+  }
 }
