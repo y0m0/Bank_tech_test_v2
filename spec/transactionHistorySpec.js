@@ -23,4 +23,5 @@ describe('TransactionHistory', () => {
       expect(transactionHistory.getTransactions()).toEqual([transaction]);
     });
   });
+
 });
